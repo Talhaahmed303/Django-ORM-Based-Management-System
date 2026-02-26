@@ -1,4 +1,4 @@
-# Django-ORM-Based-Student-Management-System
+# Django-ORM-Based-Management-System
 A Django-based Student Management System built using MVT architecture. This project demonstrates Django ORM relationships, ForeignKey associations, dynamic templates, and admin panel integration.
 This project is a fully functional Student Management System built using the Django framework.
 It follows the MVT (Model-View-Template) architecture and demonstrates the practical implementation of Django ORM, model relationships, and dynamic template rendering.
